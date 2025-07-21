@@ -3,4 +3,5 @@ date 21-7-2025
 aub life is good
  CSE (robotics)
 CSE (robotics)
+line for b2
 line for b1 actually
